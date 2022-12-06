@@ -9,7 +9,8 @@
 html, body {
   background: var(--color-bg);
   color: var(--color-fg);
-  font-family: "Fira Code";
+  /* font-family: "Fira Code"; */
+  font-family: "monospace";
   height: 100%;
   width: 100%;
   margin: 0;
@@ -71,11 +72,11 @@ html, body {
 }
 
 .title {
-  font-size: 20px;
+  font-size: 25px;
 }
 
 li {
-  font-size: 16px;
+  font-size: 20px;
   list-style-type: none;
   padding: 5px
 }
